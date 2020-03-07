@@ -1,0 +1,1 @@
+{"uuid":"d8e4a0ed-9fa8-424e-8724-8e15dd4bc01e","name":"com.testcase.HelloKittyTest","children":["7ccca66b-8494-4802-9eb2-a4b8036ac600"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1583224512310,"stop":1583224512316}],"afters":[],"links":[],"start":1583224512278,"stop":1583224512515}

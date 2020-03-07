@@ -1,0 +1,14 @@
+{
+  "config": [
+    {
+      "flashSaleText": "From 1 SAR",
+      "flashSaleUnselectImgLink": "http://img.jollycorp.com/uploads/jollyimg/imageMaterialLib/201904/19/IL201904191011585872.png",
+      "flashSaleSelectImgLink": "http://img.jollycorp.com/uploads/jollyimg/imageMaterialLib/201904/19/IL201904191012018384.png",
+      "themeSaleText": "Theme Saletest",
+      "themeSaleUnselectImgLink": "http://img.jollycorp.com/uploads/jollyimg/imageMaterialLib/201904/19/IL201904191012035000.png",
+      "themeSaleSelectImgLink": "http://img.jollycorp.com/uploads/jollyimg/imageMaterialLib/201904/19/IL201904191012076183.png",
+      "startTime": 1555640357,
+      "endTime": 1555899557
+    }
+  ]
+}
